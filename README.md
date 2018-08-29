@@ -1,2 +1,2 @@
 # bash-scripts
-Some of my bash scripts
+Some of my bash scripts.
